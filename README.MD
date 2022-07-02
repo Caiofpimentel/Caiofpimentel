@@ -1,6 +1,6 @@
-# <center> Caio Pimentel </center>
+# Caio Pimentel
 
-<center> ![naruto-uzumaki-sonriendo](C:\Users\caio-\Desktop\Apresentação GitHub\naruto-uzumaki-sonriendo.gif) </center>
+
 
 ![naruto-uzumaki-sonriendo](C:\Users\caio-\Desktop\Apresentação GitHub\naruto-uzumaki-sonriendo.gif)
 
