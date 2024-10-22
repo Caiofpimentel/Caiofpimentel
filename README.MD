@@ -6,7 +6,7 @@
 </div><br>
 
 
--  _Eu sou um estudante de Análise e Desenvolvimento de sistemas que gosta de animes, séries, filmes, jogos e documentários._
+-  _Eu sou formado em Análise e Desenvolvimento de sistemas e gosto de animes, séries, filmes, jogos e documentários._
 
 
 
